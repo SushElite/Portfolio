@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Box, Typography } from "@mui/material";
+import { Box } from "@mui/material";
 
 export default function Home() {
   return (
@@ -22,9 +22,7 @@ export default function Home() {
           color: "var(--foreground)",
         }}
       >
-        <Typography variant="h3" gutterBottom>
-          Hi 👋, I am Sushil Rindhe
-        </Typography>
+        Coming Soon !!!
       </Box>
     </>
   );
